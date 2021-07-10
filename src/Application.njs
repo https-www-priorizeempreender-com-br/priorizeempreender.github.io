@@ -24,8 +24,7 @@ class Application extends Nullstack {
     return (
       <main>
         <Head />
-        <Home route="/" />
-        <SalesPage route="/curso-fullstack-turbo" />
+        <SalesPage route="/" />
       </main>
     )
   }
