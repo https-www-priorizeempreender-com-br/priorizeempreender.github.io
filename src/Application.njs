@@ -1,6 +1,5 @@
 import Nullstack from 'nullstack';
-import Home from './Home';
-import SalesPage from '../course-fullstack/SalesPage';
+import SalesPage from './course-fullstack/SalesPage';
 
 class Application extends Nullstack {
 
@@ -25,6 +24,8 @@ class Application extends Nullstack {
       <main>
         <Head />
         <SalesPage route="/" />
+
+        <span href="/"></span>
       </main>
     )
   }
