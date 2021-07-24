@@ -5,7 +5,7 @@ self.context = {
     "development": false,
     "production": true,
     "mode": "ssg",
-    "key": "70825a936e1a7f4e2347acd649306db7bb086845"
+    "key": "84fcd92b841eebde6de52124a0998b57f3ee4619"
   },
   "project": {
     "domain": "priorizeempreender.com.br",
